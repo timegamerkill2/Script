@@ -4,7 +4,7 @@ _G.Farm = true
 _G.Settings = {
    World = 2, --1-4
    Level = 1, --เลือกด่าน 1-20 (Inf could be 21 idk)
-   Difficulty = "Normal", --เลือกโหมด Easy/Normal/Hard/Extreme
+   Difficulty = "Hard", --เลือกโหมด Easy/Normal/Hard/Extreme
 
    --Autofeed Settings
    LeaveOneLeft = false, --Leaves one Unit Left so you dont lose it
